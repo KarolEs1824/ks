@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Galería de imágenes</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Galería de imágenes</h1>
+  
+  <div class="gallery">
+    <div class="image-container">
+      <a href="#">
+        <img src="imagen1.jpg" alt="Imagen 1">
+      </a>
+    </div>
+    <div class="image-container">
+      <a href="#">
+        <img src="imagen2.jpg" alt="Imagen 2">
+      </a>
+    </div>
+    <div class="image-container">
+      <a href="#">
+        <img src="imagen3.jpg" alt="Imagen 3">
+      </a>
+    </div>
+    <!-- Agrega más divs .image-container con imágenes aquí -->
+  </div>
+</body>
+</html>
