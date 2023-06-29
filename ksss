@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog de Noticias</title>
+  <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Blog de Noticias</h1>
+  </header>
+  
+  <main>
+    <article>
+      <h2>Cristiano Ronaldo firma contrato con nuevo club de fútbol</h2>
+      <p class="meta">Fecha: 29 de junio de 2023 | Autor: Juan Pérez</p>
+      <p>Cristiano Ronaldo, reconocido futbolista portugués, ha firmado un nuevo contrato con un club de fútbol de élite. Tras su exitoso paso por la Juventus de Italia, Ronaldo se une ahora al Manchester United, equipo con el que ya había jugado anteriormente en su carrera.
+
+El regreso de Ronaldo al Manchester United ha generado gran expectación y emoción entre los fanáticos del club. El delantero, considerado uno de los mejores jugadores de fútbol de todos los tiempos, regresa al equipo donde ganó varios títulos y dejó una huella imborrable en su primera etapa.
+
+El acuerdo entre Ronaldo y el Manchester United se ha alcanzado luego de intensas negociaciones y ha sido celebrado tanto por los seguidores del club como por los aficionados del fútbol en general. El jugador portugués aportará su experiencia, liderazgo y calidad goleadora al equipo, fortaleciendo así su poderío ofensivo.
+
+Ronaldo, de 38 años, se encuentra en plena forma y continúa demostrando su excelencia en el terreno de juego. Su llegada al Manchester United genera grandes expectativas y se espera que su presencia impulse al equipo a competir en los más altos niveles tanto a nivel nacional como internacional.
+
+El regreso de Cristiano Ronaldo a la Premier League británica promete ser un capítulo emocionante en su carrera, y los fanáticos del fútbol estarán atentos a cada uno de sus movimientos. Sin duda, el talento y la determinación de Ronaldo seguirán dejando una marca imborrable en la historia del fútbol mundial.
+
+¡Los seguidores del Manchester United y los amantes del fútbol en general esperan con ansias ver a Cristiano Ronaldo en acción una vez más!</p>
+    </article>
+    
+    <article>
+      <h2>Ucrania avanza en reformas para fortalecer el Estado de Derecho</h2>
+      <p class="meta">Fecha: 28 de junio de 2023 | Autor: María Gómez</p>
+      <p></p>
+    </article>
+    
+    <article>
+      <h2>Título de la Noticia 3</h2>
+      <p class="meta">Fecha: 27 de junio de 2023 | Autor: Pedro Rodríguez</p>
+      <p>Contenido de la noticia 3...</p>
+    </article>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Blog de Noticias. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  margin-top: 20px;
+}
+
+article {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.meta {
+  font-style: italic;
+  color: #888;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
