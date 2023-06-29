@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lista de tareas</title>
+  <style>
+    .completed {
+      text-decoration: line-through;
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+  <h1>Lista de tareas</h1>
+  <ul>
+    <li><input type="checkbox"> Debo volver a organizar el closet</li>
+    <li><input type="checkbox" checked>Debo terminar los trabajos del colegio</li>
+    <li><input type="checkbox"> Trabajar y estudiar mucho mas duro</li>
+    <li><input type="checkbox"> Volver </li>
+  </ul>
+</body>
+</html>
+
+
+
+
+
+
