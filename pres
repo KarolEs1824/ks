@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página de Presentación</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenido a Mi Página de Presentación</h1>
+        <p>¡Hola! Mi nombre es Karol Escobar y esta es mi página de presentación. Aquí puedes aprender más sobre mí y mis intereses.</p>
+        <h2>Sobre Mí</h2>
+        <p>Soy estuiante de undecimo grado y me apasiona mucho el deporte, la lectura, dinujar, pintar, bailar. Estoy emocionado de compartir mi conocimiento contigo a través de esta página.</p>
+        <h2>Mis Intereses</h2>
+        <p>Algunos de mis intereses incluyen mejorar en los deportes que practico, los cuales son futbol y micro fubol, mejorar mi tecnica de dibujo. Si compartes alguno de estos intereses, ¡no dudes en ponerte en contacto conmigo!</p>
+        <h2>Contacto</h2>
+        <p>Puedes contactarme en karol.escobar1098@escuelanormlapasto.edu.co o seguirme en las redes sociales:</p>
+        <ul>
+            <li><a href="[Enlace a tu Perfil de Twitter]">Twitter</a></li>
+            <li><a href="[Enlace a tu Perfil de Facebook]">Facebook</a></li>
+            <!-- Agrega más redes sociales si lo deseas -->
+        </ul>
+    </div>
+</body>
+</html>
+Este código HTML crea una página de presentación simple con una estructura básica. Puedes personalizar los detalles, como tu nombre, profesión, intereses y enlaces a las redes sociales, para que se ajusten a tu propia presentación.
